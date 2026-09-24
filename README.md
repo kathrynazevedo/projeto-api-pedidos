@@ -1,23 +1,3 @@
-## 👥 Integrantes do Grupo
-
-1. **Nome Completo:** Kauê Vitor Pereira Santos
-   - **RA:** N083BC4
-   - **Turma:** CC8Q13
-
-2. **Nome Completo:** Kathryn Azevedo do Sacramento
-   - **RA:** F3560F5
-   - **Turma:** CC7P13
-
-3. **Nome Completo:** Renan Albuquerque Nunes
-   - **RA:** G8046A4
-   - **Turma:** CC8P13
-
-4. **Nome Completo:** Patrick Albuquerque Nunes
-   - **RA:** G804759
-   - **Turma:** CC8P13
-
----
-
 ## 🚀 Como executar a aplicação
 
 Precisará do **Docker** e do **Docker Compose** (ou Docker Desktop) instalados na sua máquina.
@@ -46,3 +26,14 @@ GET /pedidos: Lista todos os pedidos existentes.
 PATCH /pedidos/{id}/status: Altera o status de um pedido.
 
 GET /health: Verifica a saúde da aplicação.
+
+--
+## 👥 Integrantes do Grupo
+
+1. **Nome Completo:** Kauê Vitor Pereira 
+
+2. **Nome Completo:** Kathryn Azevedo 
+
+3. **Nome Completo:** Renan Albuquerque 
+
+4. **Nome Completo:** Patrick Albuquerque 
