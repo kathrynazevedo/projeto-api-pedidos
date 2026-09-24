@@ -26,7 +26,7 @@ GET /pedidos: Lista todos os pedidos existentes.
 PATCH /pedidos/{id}/status: Altera o status de um pedido.
 
 GET /health: Verifica a saúde da aplicação.
-
+```
 --
 ## 👥 Integrantes do Grupo
 
